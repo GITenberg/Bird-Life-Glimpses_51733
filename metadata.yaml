@@ -1,0 +1,34 @@
+_repo: Bird-Life-Glimpses_51733
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Lodge, George Edward
+    aliases:
+    - Lodge, George E.
+    - Lodge, G. E. (George Edward)
+    birthdate: 1860
+    deathdate: 1954
+    gutenberg_agent_id: '35593'
+    url: http://www.gutenberg.org/2009/agents/35593
+creator:
+  author:
+    agent_name: Selous, Edmund
+    birthdate: 1857
+    deathdate: 1934
+    gutenberg_agent_id: '45735'
+    url: http://www.gutenberg.org/2009/agents/45735
+description: ''
+gutenberg_issued: '2016-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51733'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birds -- England -- Suffolk'
+- !lcc 'QL'
+- GITenberg
+title: Bird Life Glimpses
+url: http://www.gutenberg.org/ebooks/51733
